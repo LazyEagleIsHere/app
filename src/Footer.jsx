@@ -1,7 +1,7 @@
 function Footer(){
     return (
         <footer>
-            <p>&copy; {new Date().getFullYear()} Ĥ|Ψ(t)⟩</p>
+            <p>&copy; {new Date().getFullYear()} Ĥ|Ψ(t)⟩, WhatIsHKOI</p>
         </footer>
     );
 }
