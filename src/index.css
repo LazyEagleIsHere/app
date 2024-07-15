@@ -2,7 +2,7 @@
   border: 1px solid black;
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgb(0, 0, 0);
-  padding: 20px;
+  padding: 10px;
   margin: 10px;
   text-align: center;
   max-width: 250px;
@@ -24,4 +24,144 @@
 .github .github-text{
   font-family: Arial, sans-serif;
   color: rgb(0, 0, 0);
+}
+
+.luogu{
+  border: 1px solid rgb(0, 225, 255);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(11, 241, 241);
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.luogu .luogu-image{
+  max-width: 60%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.luogu .luogu-title{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: rgb(15, 213, 248);
+}
+
+.luogu .luogu-text{
+  font-family: Arial, sans-serif;
+  color: rgb(7, 196, 243);
+}
+
+.cf{
+  border: 1px solid rgb(199, 29, 29);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(233, 76, 76);
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.cf .cf-image{
+  max-width: 60%;
+  height: 76px;
+  margin-bottom: 10px;
+}
+
+.cf .cf-title{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: rgb(202, 193, 60);
+}
+
+.cf .cf-text{
+  font-family: Arial, sans-serif;
+  color: rgb(7, 196, 243);
+}
+
+.abc{
+  border: 1px solid rgb(105, 105, 105);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(105, 105, 105);
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.abc .abc-image{
+  max-width: 60%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.abc .abc-title{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: rgb(105, 105, 105);
+}
+
+.abc .abc-text{
+  font-family: Arial, sans-serif;
+  color: rgb(197, 129, 98);
+}
+
+.cc{
+  border: 1px solid rgb(190, 129, 71);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(190, 129, 71);
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.cc .cc-image{
+  max-width: 60%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.cc .cc-title{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: rgb(190, 129, 71);
+}
+
+.cc .cc-text{
+  font-family: Arial, sans-serif;
+  color: rgb(190, 129, 71);
+}
+
+.clist{
+  border: 1px solid rgb(12, 65, 238);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(169, 177, 66);
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+
+.clist .clist-image{
+  max-width: 60%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.clist .clist-title{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: rgb(190, 129, 71);
+}
+
+.clist .clist-text{
+  font-family: Arial, sans-serif;
+  color: rgb(190, 129, 71);
 }

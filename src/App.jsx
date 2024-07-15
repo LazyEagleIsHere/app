@@ -1,7 +1,7 @@
 import Header from './Header.jsx'
 import Footer from './Footer.jsx'
 import Code from './Code.jsx'
-
+import Compiler from './Compiler.jsx'
 
 function App() {
   return(
@@ -9,6 +9,7 @@ function App() {
       <Header/>
       <Code/>
       <Footer/>
+      <Compiler/>
     </>
   );
 }
